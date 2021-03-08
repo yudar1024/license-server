@@ -80,8 +80,8 @@
 				<configuration>
 					<keystore>C:/Users/rojer/Desktop/license-server/demo/myks.jks</keystore>
 					<alias>roger.com</alias>
-					<storepass>123456</storepass>
-					<keypass>123456</keypass>
+					<storepass>{tNSQARdUgV8H0AvViG/TpQFq9rm3XT25MmieMRKZUBM=}</storepass>
+					<keypass>{tNSQARdUgV8H0AvViG/TpQFq9rm3XT25MmieMRKZUBM=}</keypass>
 				</configuration>
 			</plugin>
 		</plugins>
